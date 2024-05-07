@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const telegramBtn = document.getElementById('telegram-button');
   telegramBtn.addEventListener('click', function() {
-    window.open('t.me/TIDEPODSonSol/', '_blank');
+    window.open("t.me/TIDEPODSonSol", '_blank');
   });
 
   const chartBtn = document.getElementById('chart-button');
