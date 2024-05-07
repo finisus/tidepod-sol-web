@@ -35,12 +35,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const chartBtn = document.getElementById('chart-button');
   chartBtn.addEventListener('click', function() {
-    window.open('https://dexscreener.com/solana/', '_blank');
+    window.open('https://dexscreener.com/solana/4y7g7xvbbtcmdpen1ojedyb7miypgksmghnhkywrun8s', '_blank');
   });
 
   const buyBtn = document.getElementById('buy-button');
   buyBtn.addEventListener('click', function() {
-    window.open('https://raydium.io/swap/?inputCurrency=sol&outputCurrency=', '_blank');
+    window.open('https://raydium.io/swap/?inputCurrency=sol&outputCurrency=YTGyhzh3RhYFbQ2vuyoRJC781tX4FtMuDzuPtW3x9bJ', '_blank');
   });
 
   /* Copy button logic */
